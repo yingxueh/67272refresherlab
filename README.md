@@ -400,3 +400,4 @@ These exercises teach powerful techniques that will help you on future phases an
 *   should have_db_index
 *   should accept_nested_attributes_for(:model)[.allow_destroy(true/false)][.update_only(true/false)][.limit(num)]
 *   should have_secure_password
+# 67272refresherlab
