@@ -34,8 +34,7 @@
   },
   "Unit Tests": {
     "coverage": {
-      "/Users/yingxuehu/Desktop/Spring 2021/67-373/lab5-choretracker-starter/app/models/task.rb": [
-        1,
+      "/Users/yingxuehu/Desktop/Spring 2021/67-373/lab5-choretracker-starter/app/models/chore.rb": [
         1,
         1,
         1,
@@ -43,15 +42,23 @@
         null,
         3,
         2,
+        2,
+        2,
+        2,
+        2,
+        null,
+        1,
+        2,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
         null
       ],
       "/Users/yingxuehu/Desktop/Spring 2021/67-373/lab5-choretracker-starter/app/models/application_record.rb": [
-        1,
-        1,
-        null
-      ],
-      "/Users/yingxuehu/Desktop/Spring 2021/67-373/lab5-choretracker-starter/app/models/chore.rb": [
-        1,
         1,
         1,
         null
@@ -70,6 +77,17 @@
         0,
         null,
         null,
+        null
+      ],
+      "/Users/yingxuehu/Desktop/Spring 2021/67-373/lab5-choretracker-starter/app/models/task.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
         null
       ],
       "/Users/yingxuehu/Desktop/Spring 2021/67-373/lab5-choretracker-starter/app/controllers/application_controller.rb": [
@@ -324,6 +342,6 @@
         0
       ]
     },
-    "timestamp": 1612671124
+    "timestamp": 1612673209
   }
 }
